@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pleasanthillhydrojetting.prosapp.site/sitemap.xml
